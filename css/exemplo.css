@@ -1,0 +1,58 @@
+/* mudando todas as confgurações padrões */
+*{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin: 0;
+}
+
+
+/* trabalhando com a classe do titulo */
+.titulo1{
+    
+    border-radius: 0px; /* borda */
+    background-color: rgb(215, 215, 12);
+    font-size: 30px;
+    color: rgb(250, 0, 250);
+    display: flex;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+
+    
+
+}
+/* trabalhando com a classe texto1 */
+.texto1{
+    color: rgb(0, 0, 0);
+    align-items: center;
+    text-align: justify;
+    padding: 2% 10%; /* margem interna */
+    background-color: aqua;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}/* fechando a classe texto */
+.gg{
+    align-items: center;
+    padding-top: 15px;
+    text-align: center;
+    background-color: rgb(16, 168, 2);
+}
+
+
+
+
+
+
+.top a{
+    text-decoration: none;
+    color: rgb(4, 4, 248);
+}
+
+.top a:hover {
+    color: rgb(0, 0, 0)
+}
+
+.top{
+    text-align: right;
+}
